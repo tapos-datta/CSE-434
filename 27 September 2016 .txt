@@ -1,0 +1,30 @@
+These two papers were studied during today lab hours(27 September 2016 10am-12pm).
+
+
+Link: http://link.springer.com/chapter/10.1007/3-540-45372-5_46
+
+Name : Centroid-Based Document Classification: Analysis and Experimental Results
+
+Author:
+
+Eui-Hong (Sam), George Karypis
+
+
+Abstract:
+
+In this paper they presented a simple linear-time centroid-based document classification algorithm.It had not been widely practised and 
+exploration though its simplicity and robust perpormance.Their experiments showed centroidbased classifier consistently and strongly omitted other
+algorithms such as Naive Bayesian , K-nearest-neighbors and C4.5 on large range of datasets.Their analysis showed the similarity and allowed to classify
+a new document depending on the behavior of the documents belonging to different classes.
+
+
+Link: http://ieeexplore.ieee.org/document/6984255/
+
+Name: Cross-Lingual Short-Text Document Classification for Facebook Comments
+
+Author: Mosab Faqeeh et al.
+
+This paper investigated Document Classifcation on cross lingual heuristics. It delved into document classification on
+English and Arabic languages simultaneously using data from comments, and posts from Facebook. They intended to investigatethe 
+differences in performance between the SVM, NB, KNN, and DT. KNN was added because of its high sensivity. It was more
+accurate than the other three but less efficient.
