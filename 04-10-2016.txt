@@ -1,0 +1,9 @@
+The below website was found while browsing the Internet.
+The contents of this website page extremely seem to be 
+very much partaining to our topic.
+
+http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html
+
+Anaconda for Python is being downloaded now as the guideline
+says.
+
